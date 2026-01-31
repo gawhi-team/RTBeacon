@@ -1,5 +1,7 @@
-<img width="344" height="572" alt="image" src="https://github.com/user-attachments/assets/e3a1da8a-58a4-49eb-9a5c-51b5bb20bf52" /># RTBeacon
+# RTBeacon
+
 Competent Exploit Software For RhythmTyper — RhythmTyper Cheats / Hack
+<img width="909" height="909" alt="rtbeacon logo" src="https://github.com/user-attachments/assets/67b2a9c7-29c5-4efb-9e3e-0d9c0fecaa74" />
 
 This is the current best exploiting software for RhythmTyper on the market today—you can get this software for free.
 
